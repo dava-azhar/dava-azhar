@@ -1,4 +1,4 @@
-- 👋 Nama saya @dava-azhar (Dava), umur 14 SMPN Malang
+- 👋 dava-azhar.P (Dava), umur 14 SMPN Malang
 - 👀 Saya tertarik dunia programming python, back end , dan eletronika robotika AI
 - 🌱 saat ini saya sedang belajar Python dan PHP
 - 💞️ saya suka belajar apa saja (Matematika,IT,dan dunia dapur)
